@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 23 00:45:53 2021
 
-@author: utku
+@author: ankok
 """
 
 class DecisionTreeClassifier:
